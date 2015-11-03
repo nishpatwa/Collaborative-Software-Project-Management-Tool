@@ -1,0 +1,35 @@
+SMAP
+AddModule_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddModule.jsp
+AddModule.jsp
++ 1 headsection.jsp
+webpart/headsection.jsp
++ 2 header.jsp
+webpart/header.jsp
++ 3 footer.jsp
+webpart/footer.jsp
+*L
+1,15:59
+1#1,6:73
+15#0,55:78
+1#2,7:133
+69#0,5:140
+73,34:145
+106,3:179
+108,2:182
+109,2:184
+111:186,3
+112,30:189
+141:219
+142:220,3
+143:223
+144,9:225
+152,67:234
+1#3,13:301
+218#0,4:314
+222:318,13
+223,5:331
+*E
